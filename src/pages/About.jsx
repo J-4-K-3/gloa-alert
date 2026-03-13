@@ -229,7 +229,7 @@ const About = () => {
           </motion.div>
         </div>
 
-        <section style={{ textAlign: "center" }}>
+        {/*<section style={{ textAlign: "center" }}>
           <h2 className="section-title" style={{ justifyContent: "center" }}>
             Connect with Us
           </h2>
@@ -252,7 +252,7 @@ const About = () => {
               </p>
             </div>
           </div>
-        </section>
+        </section>*/}
       </div>
     </motion.div>
   );

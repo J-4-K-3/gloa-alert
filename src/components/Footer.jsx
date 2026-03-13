@@ -69,7 +69,7 @@ const Footer = () => {
               situational awareness for humanitarian response and individual
               safety.
             </p>
-            <div className="footer-socials"
+            {/*<div className="footer-socials"
             >
               <motion.a
                 whileHover={{ color: "var(--accent-color)", y: -2 }}
@@ -95,7 +95,7 @@ const Footer = () => {
               >
                 <FiMail />
               </motion.a>
-            </div>
+            </div>*/}
           </div>
 
           <div>
