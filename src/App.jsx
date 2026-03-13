@@ -84,9 +84,9 @@ function App() {
         />
         <meta
           property="og:image"
-          content="https://gloa-alert.vercel.app/assets/logo.svg"
+          content="https://gloa-alerts.vercel.app/assets/logo.svg"
         />
-        <meta property="og:url" content="https://gloa-alert.vercel.app" />
+        <meta property="og:url" content="https://gloa-alerts.vercel.app" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="G.R.O.A" />
